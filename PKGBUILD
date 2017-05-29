@@ -1,5 +1,4 @@
 # Maintainer: Vu Dinh <vuniverse143@gmail.com> 
-# Contributor: 
 
 pkgname=ttf-monda
 pkgver=1.0
@@ -7,7 +6,7 @@ pkgrel=1
 
 pkgdesc="Sharp looking ttf sans serif font"
 url="https://github.com/veltall/ttf-monda"
-license=('MIT')
+license=('OFL')
 
 depends=()
 arch=('any')
