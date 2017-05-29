@@ -8,7 +8,7 @@ Inside the folder `./ttf-monda/fonts` are the files necessary for "installing" t
 
 An example is to host the "source files" on github and have the Github system generate a tarball when you **release** a tagged version. Alternatively, anything from Google Drive to Mega.nz can serve the `.tar.gz` file, but you'll have to generate it yourself with
 
-    $ tar zxvf * project-1.0.tar.gz
+    $ tar zcvf * project-1.0.tar.gz
 
 <p><img src="./res/git-release.png" width="500px" /></p>
 
