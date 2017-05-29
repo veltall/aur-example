@@ -1,15 +1,18 @@
-# ttf-monda
+# ttf-fonts
 
 <p><img src="./res/preview.png" alt="Monda preview" width="650px" /></p>
+
+### Arch Linux
+See [my AUR package](https://github.com/veltall/aur-example).
 
 ### Manual Installation
 Download/extract the tarball 
 
-    $ tar zxvf ttf-monda.tar.gz
+    $ tar zxvf ttf-fonts-1.0.tar.gz
 
 or clone the repo to your local machine
 
-    $ git clone https://github.com/veltall/ttf-monda.git
+    $ git clone https://github.com/veltall/ttf-fonts.git
 
 allow the files to be read by users
 
