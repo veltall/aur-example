@@ -2,7 +2,7 @@
 
 ### Have access to the source code tarball
 
-Inside the folder `./ttf-monda/fonts` are the files necessary for "installing" the font to the system; the rest are for the purpose of putting them on github. These files are to be hosted externally in a tarball.
+Inside the folder `./ttf-monda-1.0/fonts` are the files necessary for "installing" the font to the system; the rest are for the purpose of putting them on github. These files are to be hosted externally in a tarball.
 
 ![](./res/monda-git.png)
 
